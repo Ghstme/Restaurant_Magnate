@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 5b37296eadf5f0b49b257fca4a4a5dbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1082387658050350573
+    second: TextRestaurant_Magnate_0
+  - first:
+      213: 7269157266059847494
+    second: TextRestaurant_Magnate_1
+  - first:
+      213: -1228369625551406256
+    second: TextRestaurant_Magnate_2
+  - first:
+      213: -6830773491609489607
+    second: TextRestaurant_Magnate_3
+  - first:
+      213: 6725045622811037661
+    second: TextRestaurant_Magnate_4
+  - first:
+      213: -4410027418090795727
+    second: TextRestaurant_Magnate_5
+  - first:
+      213: -4005177102772429072
+    second: TextRestaurant_Magnate_6
+  - first:
+      213: -3392030756145872903
+    second: TextRestaurant_Magnate_7
+  - first:
+      213: 9140944658315646582
+    second: TextRestaurant_Magnate_8
+  - first:
+      213: -1670684028398649819
+    second: TextRestaurant_Magnate_9
+  - first:
+      213: -2272522724435070128
+    second: TextRestaurant_Magnate_10
+  - first:
+      213: 6274899735504515721
+    second: TextRestaurant_Magnate_11
+  - first:
+      213: -2350995117237546946
+    second: TextRestaurant_Magnate_12
+  - first:
+      213: -2736884941581371792
+    second: TextRestaurant_Magnate_13
+  - first:
+      213: 2431304812568553942
+    second: TextRestaurant_Magnate_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TextRestaurant_Magnate_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 380
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedab5b17d9650f00800000000000000
+      internalID: 1082387658050350573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextRestaurant_Magnate_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 387
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64762f3150c31e460800000000000000
+      internalID: 7269157266059847494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextRestaurant_Magnate_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 390
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bf0207554f3fee0800000000000000
+      internalID: -1228369625551406256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextRestaurant_Magnate_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 394
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f267b43b73431a0800000000000000
+      internalID: -6830773491609489607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextRestaurant_Magnate_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 396
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf82f5fc59245d50800000000000000
+      internalID: 6725045622811037661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextRestaurant_Magnate_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 399
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d07f6bd6f6cc2c0800000000000000
+      internalID: -4410027418090795727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextRestaurant_Magnate_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 401
+        width: 63
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe98b635a0ca68c0800000000000000
+      internalID: -4005177102772429072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextRestaurant_Magnate_7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 403
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffb9b0cff51de0d0800000000000000
+      internalID: -3392030756145872903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextRestaurant_Magnate_8
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 403
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67698666cb82bde70800000000000000
+      internalID: 9140944658315646582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextRestaurant_Magnate_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 397
+        width: 81
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e31635ab980d8e0800000000000000
+      internalID: -1670684028398649819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextRestaurant_Magnate_10
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 399
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0537b0a5f906670e0800000000000000
+      internalID: -2272522724435070128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextRestaurant_Magnate_11
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 387
+        width: 77
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98270f7401ce41750800000000000000
+      internalID: 6274899735504515721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextRestaurant_Magnate_12
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 387
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30d060a5669f5fd0800000000000000
+      internalID: -2350995117237546946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextRestaurant_Magnate_13
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 385
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0763de175a1a40ad0800000000000000
+      internalID: -2736884941581371792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextRestaurant_Magnate_14
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 381
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9a8dd68dabdb120800000000000000
+      internalID: 2431304812568553942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TextRestaurant_Magnate_0: 1082387658050350573
+      TextRestaurant_Magnate_1: 7269157266059847494
+      TextRestaurant_Magnate_10: -2272522724435070128
+      TextRestaurant_Magnate_11: 6274899735504515721
+      TextRestaurant_Magnate_12: -2350995117237546946
+      TextRestaurant_Magnate_13: -2736884941581371792
+      TextRestaurant_Magnate_14: 2431304812568553942
+      TextRestaurant_Magnate_2: -1228369625551406256
+      TextRestaurant_Magnate_3: -6830773491609489607
+      TextRestaurant_Magnate_4: 6725045622811037661
+      TextRestaurant_Magnate_5: -4410027418090795727
+      TextRestaurant_Magnate_6: -4005177102772429072
+      TextRestaurant_Magnate_7: -3392030756145872903
+      TextRestaurant_Magnate_8: 9140944658315646582
+      TextRestaurant_Magnate_9: -1670684028398649819
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
