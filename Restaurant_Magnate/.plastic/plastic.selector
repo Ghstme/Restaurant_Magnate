@@ -1,0 +1,4 @@
+repository "Restaurant_Magnate/Restaurant_Magnate@10171423789066@cloud"
+  path "/"
+    br "/main"
+    co "/main"
